@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "project2-v6"
+  "defaultProject": "project2-v6",
+  "cli": {
+    "analytics": "804936a8-2ba6-4f91-a0c3-e5a4912d88d6"
+  }
 }
